@@ -1,0 +1,93 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+
+.homesec{
+    margin: 20px;
+    padding: 10px;
+    border-radius: 20px;
+    border:2px solid rgb(223, 190, 190);
+}
+
+.homesec:hover{
+    box-shadow: 0px 0px 10px rgb(223, 190, 190);
+}
+
+.viewseat{
+    padding: 10px;
+    margin: 10px; 
+    background-color:rgb(243, 69, 69);
+    width:10%;
+    color:white;
+    text-align: center;  
+}
+
+.homecon{
+    display: flex;
+    font-size: 22px;
+    justify-content: space-between;
+    padding: 20px;
+}
+
+.homecon h3{
+    color:red;
+    /* padding-bottom: 20px; */
+}
+
+.col{
+    display: flex;
+    justify-content: space-between;
+    padding: 40px;
+    /* background-color:rgb(238, 186, 186); */
+}
+
+.rs{
+    padding-top:20px;
+}
+
+.place,.avai{
+    color:rgb(185, 64, 84);
+    padding-top:20px;
+}
+
+.col1{
+    display: flex;
+    flex-wrap: wrap;
+    padding: 20px;
+    border: 1px solid rgb(189, 183, 183);
+    width:60%;
+}
+
+.col2{
+    width:20%;
+    text-align: center;
+    font-size: 25px;
+    padding: 20px;
+    border: 1px solid rgb(189, 183, 183);
+}
+
+.col2 h1{
+ color:red;
+ padding-top:50px
+}
+
+.col2 p{
+    padding-top:20px
+   }
+
+.proceed{
+    padding: 10px;
+    text-align: center;
+    background-color: red;
+    color:white;
+    width:30%;
+    margin: auto;
+}
+
+.pro{
+    padding: 20px;
+    text-align: center;
+    width:50%
+}

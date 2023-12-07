@@ -1,0 +1,220 @@
+{
+    "bus": [
+        {
+            "id": 1,
+            "busseat": false,
+            "name":"RB Tours and Travels",
+            "time":"08.30",
+            "total":20,
+            "count":0,
+            "place":"Thenkasi",
+            "amount":660,
+            "avai":17,
+            "seat": [
+                {
+                    "id": 1,
+                    "selected": false,
+                    "booked": false
+                },
+                {
+                    "id": 2,
+                    "selected": false,
+                    "booked": false
+                },
+                {
+                    "id": 3,
+                    "selected": false,
+                    "booked": false
+                },
+                {
+                    "id": 4,
+                    "selected": false,
+                    "booked": false
+                },
+                {
+                    "id": 5,
+                    "selected": false,
+                    "booked": true
+                },
+                {
+                    "id": 6,
+                    "selected": false,
+                    "booked": false
+                },
+                {
+                    "id": 7,
+                    "selected": false,
+                    "booked": false
+                },
+                {
+                    "id": 8,
+                    "selected": false,
+                    "booked": false
+                },
+                {
+                    "id": 9,
+                    "selected": false,
+                    "booked": false
+                },
+                {
+                    "id": 10,
+                    "selected": false,
+                    "booked": false
+                },
+                {
+                    "id": 11,
+                    "selected": false,
+                    "booked": true
+                },
+                {
+                    "id": 12,
+                    "selected": false,
+                    "booked": false
+                },
+                {
+                    "id": 13,
+                    "selected": false,
+                    "booked": false
+                },
+                {
+                    "id": 14,
+                    "selected": false,
+                    "booked": false
+                },
+                {
+                    "id": 15,
+                    "selected": false,
+                    "booked": false
+                },
+                {
+                    "id": 16,
+                    "selected": false,
+                    "booked": false
+                },
+                {
+                    "id": 17,
+                    "selected": false,
+                    "booked": false
+                },
+                {
+                    "id": 18,
+                    "selected": false,
+                    "booked": false
+                },
+                {
+                    "id": 19,
+                    "selected": false,
+                    "booked": true
+                },
+                {
+                    "id": 20,
+                    "selected": false,
+                    "booked": false
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "busseat": false,
+            "name":"VKV Travels",
+            "time":"05.45",
+            "total":18,
+            "place":"Koyambedu",
+            "amount":850,
+            "count":0,
+            "avai":14,
+            "seat": [
+                {
+                    "id": 1,
+                    "selected": false,
+                    "booked": false
+                },
+                {
+                    "id": 2,
+                    "selected": false,
+                    "booked": false
+                },
+                {
+                    "id": 3,
+                    "selected": false,
+                    "booked": false
+                },
+                {
+                    "id": 4,
+                    "selected": false,
+                    "booked": true
+                },
+                {
+                    "id": 5,
+                    "selected": false,
+                    "booked": false
+                },
+                {
+                    "id": 6,
+                    "selected": false,
+                    "booked": false
+                },
+                {
+                    "id": 7,
+                    "selected": false,
+                    "booked": false
+                },
+                {
+                    "id": 8,
+                    "selected": false,
+                    "booked": true
+                },
+                {
+                    "id": 9,
+                    "selected": false,
+                    "booked": false
+                },
+                {
+                    "id": 10,
+                    "selected": false,
+                    "booked": false
+                },
+                {
+                    "id": 11,
+                    "selected": false,
+                    "booked": false
+                },
+                {
+                    "id": 12,
+                    "selected": false,
+                    "booked": false
+                },
+                {
+                    "id": 13,
+                    "selected": false,
+                    "booked": false
+                },
+                {
+                    "id": 14,
+                    "selected": false,
+                    "booked": true
+                },
+                {
+                    "id": 15,
+                    "selected": false,
+                    "booked": false
+                },
+                {
+                    "id": 16,
+                    "selected": false,
+                    "booked": false
+                },
+                {
+                    "id": 17,
+                    "selected": false,
+                    "booked": true
+                },
+                {
+                    "id": 18,
+                    "selected": false,
+                    "booked": false
+                }
+            ]
+        }
+    ]
+}
